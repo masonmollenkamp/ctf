@@ -1,0 +1,2 @@
+Mason: 400
+Jared: 0
