@@ -1,11 +1,12 @@
-# Setup
-
-Score.cmd runs score.py on jared's workstation after Alexa starts a 5 minute time.
-When the timer ends, done.py is run and score.txt is viewed.
-
 # Objective
 
-5 Minutes to score as many points as possible.
+5 Minutes to score as many points as possible by running Jared.py or Mason.py
+
+# Setup
+
+* Python 2 is installed on the server
+* Score.cmd runs score.py on jared's workstation after Alexa starts a 5 minute time.
+* When the timer ends, done.py is run and score.txt is viewed.
 
 # Rules
 
@@ -14,3 +15,4 @@ When the timer ends, done.py is run and score.txt is viewed.
 3. No accessing Server hardware or other players hardware.
 4. All access must be through remote desktop, no command line connections, (PSEXEC or Powershell)
 5. No Reboots.
+6. Can't change the contents of Mason.py or Jared.py
