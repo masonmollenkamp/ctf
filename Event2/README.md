@@ -1,4 +1,4 @@
-# Event 2
+# Event 2 - Jan 15th, 2017
 
 # Objective
 
