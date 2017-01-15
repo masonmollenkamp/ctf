@@ -18,3 +18,8 @@
 4. All access must be through remote desktop, no command line connections, (PSEXEC or Powershell)
 5. No Reboots.
 6. Can't change the contents of Mason.py or Jared.py
+
+
+# Missed opportunites
+
+* Although allowed by rules, no one moved, deleted, or renamed the python file from the other player desktop
