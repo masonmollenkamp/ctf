@@ -19,7 +19,11 @@
 5. No Reboots.
 6. Can't change the contents of Mason.py or Jared.py
 
-
 # Missed opportunites
 
 * Although allowed by rules, no one moved, deleted, or renamed the python file from the other player desktop
+
+# Final Score
+
+* Mason 3 
+* Dad 0
