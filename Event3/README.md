@@ -17,3 +17,7 @@ Allowed
 
 1. Shutdown, Restart, Sleep Mode
 2. Remote Desktop
+
+Results
+
+No one figured out how to win without cheating.
