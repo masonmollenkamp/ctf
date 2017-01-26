@@ -10,7 +10,7 @@ Not allowed
 2. No Physical Access to the Server
 3. cmd.exe
 4. powershell
-5. no password guessing
+5. no password stealing
 6. administrator accounts
 
 Allowed
