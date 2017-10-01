@@ -5,6 +5,7 @@
 * mason.py - Score one point for Mason
 
 * Score.cmd - Sends output from score.py to score.txt instead
+by mason
 
 Credits:
 https://docs.python.org/2/library/socket.html
